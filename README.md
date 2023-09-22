@@ -1,2 +1,2 @@
-# bt-password-generator
+# BT-password-generator
 a program in python to generate random strong passwords
